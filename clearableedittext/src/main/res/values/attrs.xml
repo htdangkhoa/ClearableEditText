@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearableEditText">
+        <attr name="cet_src" format="integer" />
+        <attr name="cet_visible_mode">
+            <flag name="never" value="0" />
+            <flag name="editing" value="1" />
+            <flag name="always" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
